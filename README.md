@@ -38,18 +38,12 @@ Does holding the needle in the dominant hand result in faster procedure times co
 
 ## Files
 - `Ultrasound_Guided_Procedure_Report.pdf` → Full report
-- (Optional) `analysis.ipynb` → Code and analysis (if added later)
 
 ## Tools Used
-- Python (Pandas, Matplotlib)
+- R Studio
 - Statistical Testing (Paired t-test)
 
 ## Future Improvements
 - Add regression modeling
 - Control for learning effects across attempts
 - Expand dataset with experienced practitioners
-
-## Visualizations
-
-![Histogram](visuals/histogram.png)
-![Boxplot](visuals/boxplot.png)
