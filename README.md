@@ -37,7 +37,7 @@ Does holding the needle in the dominant hand result in faster procedure times co
 - Results suggest potential training implications for clinical practice
 
 ## Files
-- `Ultrasound_Guided_Procedure_Report.pdf` → Full report
+[View Full Report](Ultrasound_Guided_Procedure_Report.pdf)
 
 ## Tools Used
 - R Studio
